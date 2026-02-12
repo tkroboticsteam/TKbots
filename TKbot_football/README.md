@@ -4,29 +4,19 @@ TKbot Football is a competitive robot football platform developed by the TKRobot
 
 The robot is built on an ESP32 38-pin controller and designed for real match conditions, fast movement, and stable wireless control.
 
-What this project includes
+What this project includes?
 
-ESP32 control code
-
-Circuit diagrams
-
-CAD models and mechanical design
-
-Assembly logic
-
-Testing and movement implementation
-
-Key features
-
-Omnidirectional movement with mecanum wheels
-
-Wireless control via Wi-Fi
-
-Precise motor control
-
-Stable behavior during fast rotations and collisions
-
-Development process
+-ESP32 control code
+-Circuit diagrams
+-CAD models and mechanical design
+-Assembly logic
+-Testing and movement implementation
+-Key features
+-Omnidirectional movement with mecanum wheels
+-Wireless control via Wi-Fi
+-Precise motor control
+-Stable behavior during fast rotations and collisions
+-Development process
 
 The robot was:
 
@@ -44,7 +34,7 @@ Team
 
 TKRobotics — student robotics team focused on engineering, programming, and competitive robotic systems.
 
-Tech stack
+Tech stack:
 
 ESP32
 
